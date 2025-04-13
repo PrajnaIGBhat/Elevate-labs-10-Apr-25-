@@ -34,6 +34,3 @@ This project focuses on applying core SQL concepts through practical exercises. 
 - `Task 3 - SQL.docx`: Instructions and task breakdown
 
 ---
-
-✅ This task is part of a larger data analytics learning project.
-
